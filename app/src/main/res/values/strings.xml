@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Trivia</string>
+    <string name="title">Trivia</string>
+    <string name="true_button">true</string>
+    <string name="false_button">false</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="counter_text">0 out of 100</string>
+    <string name="correct_answer">Correct</string>
+    <string name="wrong_answer">Wrong</string>
+</resources>
